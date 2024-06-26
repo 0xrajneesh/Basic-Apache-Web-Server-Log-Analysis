@@ -3,6 +3,8 @@
 ## Introduction
 In this project, students will learn the fundamentals of log analysis by working with Apache web server logs. Apache logs are a rich source of information about web traffic and can help identify potential security incidents, usage patterns, and performance issues. By the end of this project, students will be able to extract and interpret valuable information from Apache access and error logs.
 
+**Level**: Beginner
+
 ## Pre-requisites
 - Basic understanding of web servers and HTTP protocols
 - Familiarity with Linux command line
