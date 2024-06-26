@@ -9,8 +9,8 @@ In this project, students will learn the fundamentals of log analysis by working
 - Apache web server installed (can be on a local machine or a VM)
 
 ## Lab Set-up and Tools
-- Ubuntu 22.04 or later (or any Linux distribution with Apache installed)
-- Apache web server installed and running
+- [Ubuntu 22.04](https://releases.ubuntu.com/jammy/) or later (or any Linux distribution with Apache installed)
+- [Install Apache on Ubuntu Server](https://www.digitalocean.com/community/tutorials/how-to-install-the-apache-web-server-on-ubuntu-20-04)
 - Access to Apache log files (typically located in `/var/log/apache2/`)
 
 ## Exercises
