@@ -1,4 +1,6 @@
 # [LAB Excercise] Basic-Apache-Web-Server-Log-Analysis
+![Blue Sand White Beach Simple Watercolor Etsy Shop Banner (1)](https://github.com/0xrajneesh/Basic-Apache-Web-Server-Log-Analysis/assets/40385860/19a128f9-5068-485e-bc5f-402e47dfe50f)
+
 
 ## Introduction
 In this project, students will learn the fundamentals of log analysis by working with Apache web server logs. Apache logs are a rich source of information about web traffic and can help identify potential security incidents, usage patterns, and performance issues. By the end of this project, students will be able to extract and interpret valuable information from Apache access and error logs.
